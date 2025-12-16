@@ -1,0 +1,30 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment files
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+# -------------------------------
+# Allow source code inside Day_07
+# -------------------------------
+!Day_07/
+!Day_07/data_api/**
+!Day_07/data_pipeline/**
+!Day_07/data_visualization/**
+!Day_07/requirements.txt
