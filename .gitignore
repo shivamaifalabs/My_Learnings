@@ -19,12 +19,16 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-
 # -------------------------------
-# Allow source code inside Day_07
+# Allow source code inside Day_08
 # -------------------------------
-!Day_07/
-!Day_07/data_api/**
-!Day_07/data_pipeline/**
-!Day_07/data_visualization/**
-!Day_07/requirements.txt
+!Day_08/
+!Day_08/api_versioning/**
+!Day_08/middleware/**
+!Day_08/cache.py
+!Day_08/file_upload_validation.py
+!Day_08/health.py
+!Day_08/metrics.py
+!Day_08/rate_limit.py
+!Day_08/sending_email.py
+!Day_08/websocket.py

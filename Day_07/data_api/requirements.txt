@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-pandas
-matplotlib
-seaborn
-python-multipart
