@@ -22,7 +22,3 @@ CACHEDIR.TAG
 .idea/
 .DS_Store
 Thumbs.db
-
-# =============================
-# Allow everything else by default
-# =============================
